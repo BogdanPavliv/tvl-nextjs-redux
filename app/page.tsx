@@ -1,6 +1,3 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
 import Choose from "./components/choose";
 import Countries from "./components/countries";
 import About from "./components/about";
